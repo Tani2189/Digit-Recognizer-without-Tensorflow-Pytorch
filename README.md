@@ -16,4 +16,7 @@ Accuracy: approx 90%
 Testing with different numbers:(Why? for seeing how well it's optimized.)
 ![image](https://user-images.githubusercontent.com/96855667/210269618-aa09dd3f-3848-4f73-8a17-f53692280c8a.png)
 Here Prediction and label are same so we are expecting the same output. For example we put some random value, if the prediction and label value is suppose 8 so  the output should show 8. 
+
+
+
 Thank You.
