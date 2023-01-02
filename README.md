@@ -1,5 +1,7 @@
 # Digit-Recognizer-without-Tensorflow-Pytorch
 Hi There, In this project i've tried making my own neural network by using pandas,numpy and bit of maths.
+
+
 1.importing the data..
 ![image](https://user-images.githubusercontent.com/96855667/210269022-1e54feaa-478a-4230-8778-2bcde2e62fa4.png)
 2.Training and Testing Data..
